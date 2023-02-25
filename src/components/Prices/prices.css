@@ -1,0 +1,33 @@
+#prizes {
+    text-align: center;
+    /* padding: 0% 15%; */
+    background-color: #1E1E1E;
+    color: #e6e6e6;
+}
+
+.prize-heading {
+    text-align: center;
+    padding: 3% 25%;
+}
+
+.prize-heading h1 {
+    font-family: 'Playfair Display', serif !important;
+}
+
+
+
+h1,
+p {
+    color: #e6e6e6;
+}
+
+.prize-heading h1,
+.prize-box img+h1 {
+    font-family: 'Tilt Warp', cursive;
+    font-size: 1.5rem;
+}
+
+.prize-img {
+    border-radius: 100px;
+    width: 150px;
+}
